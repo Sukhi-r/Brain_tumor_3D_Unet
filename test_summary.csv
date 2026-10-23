@@ -1,0 +1,4 @@
+region	mean_dice	std_dice	median_dice	minimum_dice	maximum_dice	volume_mae_ml	empty_ground_truth_cases	patients
+WT	0.5868	0.1896	0.5628	0.2099	0.8665	91.2326	0	30
+TC	0.6393	0.181	0.6603	0.2299	0.8702	46.0763	0	30
+ET	0.4516	0.2861	0.5354	0.0147	0.843	21.9789	0	30
